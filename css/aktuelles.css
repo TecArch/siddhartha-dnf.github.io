@@ -1,0 +1,148 @@
+.version.aktuelles /* version checker */
+{
+	color: #0000FF;
+	background-color: #0FF552;
+}
+
+.html
+{
+	background-color: #FFFFFF;
+}
+
+#page
+{
+	z-index: 1;
+	width: 960px;
+	min-height: 500px;
+	background-image: none;
+	border-style: none;
+	border-color: #000000;
+	background-color: transparent;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#page_position_content
+{
+	padding-top: 62px;
+	width: 0.01px;
+}
+
+#u926-4
+{
+	z-index: 2;
+	width: 80px;
+	min-height: 14px;
+	background-color: transparent;
+	line-height: 13px;
+	font-size: 11px;
+	text-align: center;
+	font-family: Verdana, Tahoma, Geneva, sans-serif;
+	position: fixed;
+	top: 60px;
+	left: 50%;
+	margin-left: 308px;
+}
+
+#u927-5
+{
+	z-index: 6;
+	width: 80px;
+	min-height: 14px;
+	background-color: transparent;
+	line-height: 12px;
+	font-size: 10px;
+	text-align: center;
+	font-family: Verdana, Tahoma, Geneva, sans-serif;
+	position: fixed;
+	top: 60px;
+	left: 50%;
+	margin-left: 410px;
+}
+
+#u928-4
+{
+	z-index: 11;
+	width: 80px;
+	min-height: 14px;
+	background-color: transparent;
+	line-height: 12px;
+	font-size: 10px;
+	text-align: center;
+	font-family: Verdana, Tahoma, Geneva, sans-serif;
+	position: fixed;
+	top: 60px;
+	left: 50%;
+	margin-left: 512px;
+}
+
+#u926,#u927,#u928
+{
+	color: #7F7F7F;
+}
+
+#u929-4
+{
+	z-index: 15;
+	width: 164px;
+	min-height: 34px;
+	background-color: transparent;
+	line-height: 36px;
+	font-size: 30px;
+	font-family: Courier New, Courier, monospace;
+	font-weight: bold;
+	margin-left: 20px;
+	position: relative;
+}
+
+#u929
+{
+	font-size: 30px;
+}
+
+#u931-8
+{
+	z-index: 23;
+	width: 546px;
+	min-height: 269px;
+	background-color: transparent;
+	font-family: Verdana, Tahoma, Geneva, sans-serif;
+	margin-left: 405px;
+	margin-top: 38px;
+	position: relative;
+}
+
+#u931-2,#u931-5
+{
+	font-weight: bold;
+	font-style: italic;
+}
+
+#u930-4
+{
+	z-index: 19;
+	width: 69px;
+	min-height: 13px;
+	background-color: transparent;
+	line-height: 13px;
+	font-size: 11px;
+	color: #7F7F7F;
+	font-family: Verdana, Tahoma, Geneva, sans-serif;
+	margin-left: 1003px;
+	margin-top: 82px;
+	position: relative;
+}
+
+body
+{
+	position: relative;
+	min-width: 960px;
+	padding-top: 36px;
+	padding-bottom: 36px;
+}
+
+#page .verticalspacer
+{
+	clear: both;
+}
+

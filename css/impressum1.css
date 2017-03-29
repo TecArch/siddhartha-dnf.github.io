@@ -1,0 +1,135 @@
+.version.impressum1 /* version checker */
+{
+	color: #0000F7;
+	background-color: #DE3616;
+}
+
+.html
+{
+	background-color: #FFFFFF;
+}
+
+#page
+{
+	z-index: 1;
+	width: 669px;
+	min-height: 418px;
+	background-image: none;
+	border-style: none;
+	border-color: #000000;
+	background-color: transparent;
+	padding-top: 20px;
+	padding-right: 291px;
+	padding-bottom: 62px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#u892-4
+{
+	z-index: 2;
+	width: 201px;
+	min-height: 30px;
+	background-color: transparent;
+	line-height: 18px;
+	font-size: 15px;
+	font-family: Courier New, Courier, monospace;
+	font-style: italic;
+	position: relative;
+}
+
+#u893-73
+{
+	z-index: 6;
+	width: 633px;
+	min-height: 695px;
+	background-color: transparent;
+	font-family: Verdana, Tahoma, Geneva, sans-serif;
+	margin-left: 36px;
+	margin-top: 48px;
+	position: relative;
+}
+
+#u893-2
+{
+	font-size: 16px;
+	font-weight: bold;
+	line-height: 0px;/* 0 for mixed font sized paras; applied on spans instead */
+}
+
+#u893
+{
+	font-size: 20px;
+	line-height: 24px;
+}
+
+#u893-3,#u893-5
+{
+	font-size: 16px;
+	line-height: 19px;
+	font-weight: bold;
+}
+
+#u893-19
+{
+	font-size: 14px;
+	font-weight: bold;
+	font-style: normal;
+}
+
+#u894-27
+{
+	z-index: 79;
+	width: 531px;
+	min-height: 835px;
+	background-color: transparent;
+	font-family: Verdana, Tahoma, Geneva, sans-serif;
+	margin-left: 39px;
+	top: -5px;
+	margin-bottom: -5px;
+	position: relative;
+}
+
+#u894-2,#u894-3,#u894-4
+{
+	font-size: 20px;
+	line-height: 24px;
+	font-style: normal;
+}
+
+#u894-6
+{
+	font-size: 20px;
+	line-height: 24px;
+	font-weight: bold;
+	font-style: normal;
+}
+
+#u894-13
+{
+	font-size: 18px;
+	line-height: 22px;
+	font-style: italic;
+}
+
+#u894-9,#u894-15,#u894-21
+{
+	font-size: 18px;
+	line-height: 22px;
+	color: #7F7F7F;
+	font-style: italic;
+}
+
+body
+{
+	position: relative;
+	min-width: 960px;
+	padding-top: 36px;
+	padding-bottom: 36px;
+}
+
+#page .verticalspacer
+{
+	clear: both;
+}
+

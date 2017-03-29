@@ -1,0 +1,297 @@
+.version.aktuelles /* version checker */
+{
+	color: #0000E6;
+	background-color: #CB839B;
+}
+
+@-ms-viewport
+{
+	width: 380px;
+}
+
+@-webkit-viewport
+{
+	width: 380px;
+}
+
+@-o-viewport
+{
+	width: 380px;
+}
+
+@-moz-viewport
+{
+	width: 380px;
+}
+
+@viewport
+{
+	width: 380px;
+}
+
+.html
+{
+	background-color: #FFFFFF;
+}
+
+#page
+{
+	z-index: 1;
+	width: 380px;
+	min-height: 569.9500000000002px;
+	background-image: none;
+	border-style: none;
+	border-color: #000000;
+	background-color: transparent;
+	padding-bottom: 0px;
+}
+
+#page_position_content
+{
+	padding-bottom: 27px;
+	width: 0.01px;
+}
+
+#u1313
+{
+	z-index: 17;
+	min-height: 82px;
+	background-color: #FFFFFF;
+	padding-bottom: 4px;
+}
+
+#pu1314-4
+{
+	width: 0.01px;
+	padding-bottom: 0px;
+	margin-right: -10000px;
+	margin-top: 19px;
+	margin-left: 25px;
+}
+
+#u1314-4
+{
+	z-index: 18;
+	width: 51px;
+	min-height: 17px;
+	background-color: transparent;
+	line-height: 14px;
+	font-size: 12px;
+	font-family: Courier New, Courier, monospace;
+	font-weight: bold;
+	font-style: italic;
+	position: relative;
+}
+
+#u1314-4:hover
+{
+	background-color: #A3E6FF;
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 17px;
+	width: 51px;
+	margin: 0px;
+}
+
+#u1314-4:active
+{
+	background-color: #FF654A;
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 17px;
+	width: 51px;
+	margin: 0px;
+}
+
+#u1315-4
+{
+	z-index: 22;
+	width: 62px;
+	min-height: 17px;
+	background-color: transparent;
+	line-height: 14px;
+	font-size: 12px;
+	font-family: Courier New, Courier, monospace;
+	font-weight: bold;
+	font-style: italic;
+	margin-top: 3px;
+	position: relative;
+}
+
+#u1315-4:hover
+{
+	background-color: #97F7FF;
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 17px;
+	width: 62px;
+	margin: 3px 0px 0px;
+}
+
+#u1315-4:active
+{
+	background-color: #FF654A;
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 17px;
+	width: 62px;
+	margin: 3px 0px 0px;
+}
+
+#u1316-4
+{
+	z-index: 26;
+	width: 57px;
+	min-height: 17px;
+	background-color: transparent;
+	line-height: 14px;
+	font-size: 12px;
+	font-family: Courier New, Courier, monospace;
+	font-weight: bold;
+	font-style: italic;
+	margin-top: 3px;
+	position: relative;
+}
+
+#u1316-4:hover
+{
+	background-color: #DCFFFD;
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 17px;
+	width: 57px;
+	margin: 3px 0px 0px;
+}
+
+#u1316-4:active
+{
+	background-color: #DEEACE;
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 17px;
+	width: 57px;
+	margin: 3px 0px 0px;
+}
+
+#u1314,#u1315,#u1316
+{
+	text-decoration: underline;
+}
+
+#u1317
+{
+	z-index: 30;
+	width: 71px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 19px;
+	left: 200px;
+}
+
+#u1319-7
+{
+	z-index: 32;
+	width: 80px;
+	min-height: 57px;
+	background-color: transparent;
+	font-family: Courier New, Courier, monospace;
+	font-weight: bold;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 21px;
+	left: 274px;
+}
+
+#u1319-4
+{
+	font-size: 9px;
+	line-height: 11px;
+}
+
+#u1319-3
+{
+	font-weight: normal;
+}
+
+#u1319-5
+{
+	font-size: 30px;
+	line-height: 36px;
+}
+
+#u1313-bw
+{
+	z-index: 17;
+	min-height: 82px;
+}
+
+#u1251-11
+{
+	z-index: 2;
+	width: 206px;
+	min-height: 103px;
+	background-color: transparent;
+	font-family: Verdana, Tahoma, Geneva, sans-serif;
+	margin-left: 105px;
+	margin-top: 60px;
+	position: relative;
+}
+
+#u1251-4
+{
+	font-weight: bold;
+	font-style: italic;
+	line-height: 17px;
+}
+
+#u1251-5,#u1251-9
+{
+	line-height: 0px;/* 0 for mixed font sized paras; applied on spans instead */
+}
+
+#u1319-2,#u1251,#u1251-6
+{
+	font-size: 12px;
+	line-height: 14px;
+}
+
+#u1251-2,#u1251-7
+{
+	line-height: 17px;
+}
+
+#u1251-3,#u1251-8
+{
+	font-size: 13px;
+	font-weight: bold;
+	font-style: italic;
+	line-height: 16px;
+}
+
+#u1252-4
+{
+	z-index: 13;
+	width: 69px;
+	min-height: 13px;
+	background-color: transparent;
+	line-height: 13px;
+	font-size: 11px;
+	color: #7F7F7F;
+	font-family: Verdana, Tahoma, Geneva, sans-serif;
+	margin-left: 153px;
+	margin-top: 281px;
+	position: relative;
+}
+
+body
+{
+	position: relative;
+	min-width: 380px;
+}
+
+#page .verticalspacer
+{
+	clear: both;
+}
+

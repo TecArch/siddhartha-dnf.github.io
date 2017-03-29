@@ -1,0 +1,68 @@
+.version.index /* version checker */
+{
+	color: #00000C;
+	background-color: #F71658;
+}
+
+.html
+{
+	background-color: #FFFFFF;
+}
+
+#page
+{
+	z-index: 1;
+	width: 960px;
+	min-height: 499.96167800453634px;
+	background-image: none;
+	border-style: none;
+	border-color: #000000;
+	background-color: transparent;
+	padding-bottom: 0px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#page_position_content
+{
+	padding-top: 30px;
+	padding-bottom: 62px;
+	width: 0.01px;
+}
+
+#u1796
+{
+	z-index: 2;
+	width: 1219px;
+	left: -149px;
+	position: relative;
+	background: #FFFFFF url("../images/sid_schr%c3%a4g.jpg") no-repeat center center;
+}
+
+#u1811-4
+{
+	z-index: 4;
+	width: 589px;
+	min-height: 97px;
+	background-color: transparent;
+	line-height: 25px;
+	font-size: 21px;
+	color: #000000;
+	font-family: Courier New, Courier, monospace;
+	left: -148px;
+	margin-top: 7px;
+	position: relative;
+}
+
+body
+{
+	position: relative;
+	min-width: 960px;
+	padding-top: 36px;
+}
+
+#page .verticalspacer
+{
+	clear: both;
+}
+

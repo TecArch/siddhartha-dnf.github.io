@@ -1,0 +1,169 @@
+.version.impressum1 /* version checker */
+{
+	color: #00000D;
+	background-color: #424801;
+}
+
+@-ms-viewport
+{
+	width: 380px;
+}
+
+@-webkit-viewport
+{
+	width: 380px;
+}
+
+@-o-viewport
+{
+	width: 380px;
+}
+
+@-moz-viewport
+{
+	width: 380px;
+}
+
+@viewport
+{
+	width: 380px;
+}
+
+.html
+{
+	background-color: #FFFFFF;
+}
+
+#page
+{
+	z-index: 1;
+	width: 372px;
+	min-height: 479px;
+	background-image: none;
+	border-style: none;
+	border-color: #000000;
+	background-color: transparent;
+	padding-top: 20px;
+	padding-right: 8px;
+	padding-bottom: 71px;
+}
+
+#u1321-4
+{
+	z-index: 2;
+	width: 201px;
+	min-height: 30px;
+	background-color: transparent;
+	line-height: 14px;
+	font-size: 12px;
+	font-family: Courier New, Courier, monospace;
+	font-style: italic;
+	position: relative;
+}
+
+#pu1322-73
+{
+	width: 0.01px;
+	margin-left: 36px;
+	margin-top: 48px;
+}
+
+#u1322-73
+{
+	z-index: 6;
+	width: 332px;
+	min-height: 695px;
+	background-color: transparent;
+	font-family: Verdana, Tahoma, Geneva, sans-serif;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u1322-2
+{
+	font-size: 15px;
+	line-height: 18px;
+	font-weight: bold;
+}
+
+#u1322-3
+{
+	font-size: 16px;
+	line-height: 19px;
+	font-weight: bold;
+}
+
+#u1322-5
+{
+	font-size: 13px;
+	line-height: 16px;
+	font-weight: bold;
+}
+
+#u1322-19
+{
+	font-size: 13px;
+	line-height: 16px;
+	font-weight: bold;
+	font-style: normal;
+}
+
+#u1323-27
+{
+	z-index: 79;
+	width: 336px;
+	min-height: 835px;
+	background-color: transparent;
+	font-family: Verdana, Tahoma, Geneva, sans-serif;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 583px;
+}
+
+#u1323-2,#u1323-3,#u1323-4
+{
+	font-size: 20px;
+	line-height: 24px;
+	font-style: normal;
+}
+
+#u1323-6
+{
+	font-size: 15px;
+	line-height: 18px;
+	font-weight: bold;
+	font-style: normal;
+}
+
+#u1323-13
+{
+	font-size: 11px;
+	line-height: 13px;
+	font-style: italic;
+}
+
+#u1323-9,#u1323-15,#u1323-21
+{
+	font-size: 13px;
+	line-height: 16px;
+	color: #7F7F7F;
+	font-style: italic;
+}
+
+#u1322-7,#u1322-9,#u1322-10,#u1322-13,#u1322-14,#u1322-16,#u1322-22,#u1322-24,#u1322-26,#u1322-27,#u1322-29,#u1322-31,#u1322-32,#u1322-34,#u1322-36,#u1322-38,#u1322-39,#u1322-41,#u1322-43,#u1322-44,#u1322-46,#u1322-47,#u1322-49,#u1322-51,#u1322-52,#u1322-54,#u1322-56,#u1322-58,#u1322-59,#u1322-61,#u1322-62,#u1322-64,#u1322-66,#u1322-68,#u1322-70,#u1323-10,#u1323-12,#u1323-18,#u1323-24
+{
+	font-size: 11px;
+	line-height: 13px;
+}
+
+body
+{
+	position: relative;
+	min-width: 380px;
+}
+
+#page .verticalspacer
+{
+	clear: both;
+}
+
