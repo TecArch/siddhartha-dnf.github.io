@@ -1,7 +1,7 @@
 .version.impressum2 /* version checker */
 {
-	color: #0000F3;
-	background-color: #E305E7;
+	color: #0000F9;
+	background-color: #DF5F9D;
 }
 
 .html
@@ -38,7 +38,7 @@
 	position: relative;
 }
 
-#u902-73
+#u902-64
 {
 	z-index: 6;
 	width: 633px;
@@ -70,7 +70,7 @@
 	font-weight: bold;
 }
 
-#u902-19
+#u902-20
 {
 	font-size: 14px;
 	font-weight: bold;
@@ -79,7 +79,7 @@
 
 #u903-27
 {
-	z-index: 79;
+	z-index: 70;
 	width: 531px;
 	min-height: 835px;
 	background-color: transparent;

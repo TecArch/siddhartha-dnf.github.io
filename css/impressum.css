@@ -1,7 +1,7 @@
 .version.impressum /* version checker */
 {
-	color: #000017;
-	background-color: #59D0E1;
+	color: #0000EC;
+	background-color: #28A41C;
 }
 
 .html
@@ -38,7 +38,7 @@
 	position: relative;
 }
 
-#u884-73
+#u884-64
 {
 	z-index: 6;
 	width: 633px;
@@ -52,15 +52,9 @@
 
 #u884-2
 {
-	font-size: 16px;
-	font-weight: bold;
-	line-height: 0px;/* 0 for mixed font sized paras; applied on spans instead */
-}
-
-#u884
-{
 	font-size: 20px;
 	line-height: 24px;
+	font-weight: bold;
 }
 
 #u884-3,#u884-5
@@ -70,7 +64,7 @@
 	font-weight: bold;
 }
 
-#u884-19
+#u884-20
 {
 	font-size: 14px;
 	font-weight: bold;
@@ -79,14 +73,13 @@
 
 #u885-27
 {
-	z-index: 79;
+	z-index: 70;
 	width: 531px;
 	min-height: 835px;
 	background-color: transparent;
 	font-family: Verdana, Tahoma, Geneva, sans-serif;
 	margin-left: 39px;
-	top: -5px;
-	margin-bottom: -5px;
+	margin-top: 42px;
 	position: relative;
 }
 

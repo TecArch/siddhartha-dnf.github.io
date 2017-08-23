@@ -1,7 +1,7 @@
 .version.impressum1 /* version checker */
 {
-	color: #0000F7;
-	background-color: #DE3616;
+	color: #00000B;
+	background-color: #ECA79E;
 }
 
 .html
@@ -38,7 +38,7 @@
 	position: relative;
 }
 
-#u893-73
+#u893-64
 {
 	z-index: 6;
 	width: 633px;
@@ -52,15 +52,9 @@
 
 #u893-2
 {
-	font-size: 16px;
-	font-weight: bold;
-	line-height: 0px;/* 0 for mixed font sized paras; applied on spans instead */
-}
-
-#u893
-{
 	font-size: 20px;
 	line-height: 24px;
+	font-weight: bold;
 }
 
 #u893-3,#u893-5
@@ -70,7 +64,7 @@
 	font-weight: bold;
 }
 
-#u893-19
+#u893-20
 {
 	font-size: 14px;
 	font-weight: bold;
@@ -79,7 +73,7 @@
 
 #u894-27
 {
-	z-index: 79;
+	z-index: 70;
 	width: 531px;
 	min-height: 835px;
 	background-color: transparent;

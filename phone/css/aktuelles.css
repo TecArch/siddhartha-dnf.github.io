@@ -1,7 +1,7 @@
 .version.aktuelles /* version checker */
 {
-	color: #0000E6;
-	background-color: #CB839B;
+	color: #0000F6;
+	background-color: #66A6FE;
 }
 
 @-ms-viewport
@@ -54,7 +54,7 @@
 
 #u1313
 {
-	z-index: 17;
+	z-index: 6;
 	min-height: 82px;
 	background-color: #FFFFFF;
 	padding-bottom: 4px;
@@ -71,7 +71,7 @@
 
 #u1314-4
 {
-	z-index: 18;
+	z-index: 7;
 	width: 51px;
 	min-height: 17px;
 	background-color: transparent;
@@ -105,7 +105,7 @@
 
 #u1315-4
 {
-	z-index: 22;
+	z-index: 11;
 	width: 62px;
 	min-height: 17px;
 	background-color: transparent;
@@ -140,7 +140,7 @@
 
 #u1316-4
 {
-	z-index: 26;
+	z-index: 15;
 	width: 57px;
 	min-height: 17px;
 	background-color: transparent;
@@ -180,7 +180,7 @@
 
 #u1317
 {
-	z-index: 30;
+	z-index: 19;
 	width: 71px;
 	background-color: transparent;
 	position: relative;
@@ -191,7 +191,7 @@
 
 #u1319-7
 {
-	z-index: 32;
+	z-index: 21;
 	width: 80px;
 	min-height: 57px;
 	background-color: transparent;
@@ -201,6 +201,12 @@
 	margin-right: -10000px;
 	margin-top: 21px;
 	left: 274px;
+}
+
+#u1319-2
+{
+	font-size: 12px;
+	line-height: 14px;
 }
 
 #u1319-4
@@ -222,65 +228,47 @@
 
 #u1313-bw
 {
-	z-index: 17;
+	z-index: 6;
 	min-height: 82px;
 }
 
-#u1251-11
+#u1910-7
 {
-	z-index: 2;
-	width: 206px;
-	min-height: 103px;
+	z-index: 28;
+	width: 394px;
+	min-height: 269px;
 	background-color: transparent;
+	line-height: 14px;
+	font-size: 12px;
 	font-family: Verdana, Tahoma, Geneva, sans-serif;
-	margin-left: 105px;
-	margin-top: 60px;
+	font-weight: normal;
+	margin-left: 137px;
+	margin-top: 57px;
 	position: relative;
 }
 
-#u1251-4
+#u1910
+{
+	font-style: italic;
+}
+
+#u1910-2,#u1910-4
 {
 	font-weight: bold;
-	font-style: italic;
-	line-height: 17px;
-}
-
-#u1251-5,#u1251-9
-{
-	line-height: 0px;/* 0 for mixed font sized paras; applied on spans instead */
-}
-
-#u1319-2,#u1251,#u1251-6
-{
-	font-size: 12px;
-	line-height: 14px;
-}
-
-#u1251-2,#u1251-7
-{
-	line-height: 17px;
-}
-
-#u1251-3,#u1251-8
-{
-	font-size: 13px;
-	font-weight: bold;
-	font-style: italic;
-	line-height: 16px;
 }
 
 #u1252-4
 {
-	z-index: 13;
+	z-index: 2;
 	width: 69px;
 	min-height: 13px;
 	background-color: transparent;
 	line-height: 13px;
-	font-size: 11px;
 	color: #7F7F7F;
+	font-size: 11px;
 	font-family: Verdana, Tahoma, Geneva, sans-serif;
 	margin-left: 153px;
-	margin-top: 281px;
+	margin-top: 118px;
 	position: relative;
 }
 

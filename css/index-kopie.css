@@ -1,7 +1,7 @@
 .version.index_kopie /* version checker */
 {
-	color: #000018;
-	background-color: #931859;
+	color: #000002;
+	background-color: #CD3976;
 }
 
 .html
@@ -13,19 +13,19 @@
 {
 	z-index: 1;
 	width: 960px;
-	min-height: 500px;
+	min-height: 499.84097871498284px;
 	background-image: none;
 	border-style: none;
 	border-color: #000000;
 	background-color: transparent;
+	padding-bottom: 0px;
 	margin-left: auto;
 	margin-right: auto;
 }
 
 #page_position_content
 {
-	margin-top: -35px;
-	margin-bottom: -37px;
+	padding-top: 62px;
 	width: 0.01px;
 }
 
@@ -82,28 +82,18 @@
 	color: #7F7F7F;
 }
 
-#pu1875
-{
-	width: 0.01px;
-	margin-left: -100px;
-	margin-top: 97px;
-}
-
-#u1875
+#u1943
 {
 	z-index: 2;
+	width: 613px;
 	height: 60px;
 	background-color: #ED1C24;
 	opacity: 0.5;
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=50)";
 	filter: alpha(opacity=50);
-}
-
-#u1875-bw
-{
-	z-index: 2;
-	margin-top: 1px;
-	height: 60px;
+	position: fixed;
+	top: 62px;
+	left: -389px;
 }
 
 #u1853-7
@@ -116,9 +106,8 @@
 	font-size: 30px;
 	font-family: Courier New, Courier, monospace;
 	font-weight: bold;
+	margin-left: 36px;
 	position: relative;
-	margin-right: -10000px;
-	left: 136px;
 }
 
 #u1853-4
@@ -139,8 +128,8 @@
 	width: 0.01px;
 	height: 516px;
 	padding-bottom: 13px;
-	left: -734px;
-	margin-top: 66px;
+	left: -738px;
+	margin-top: 62px;
 	position: relative;
 }
 
@@ -195,8 +184,8 @@
 	border-color: #DEDEDE;
 	background-color: transparent;
 	line-height: 20px;
-	text-align: center;
 	color: #C4C4C4;
+	text-align: center;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 }
 
@@ -305,8 +294,8 @@
 	border-color: transparent;
 	background-color: transparent;
 	line-height: 20px;
-	text-align: center;
 	color: #C4C4C4;
+	text-align: center;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 }
 
@@ -439,8 +428,8 @@
 	border-color: #DEDEDE;
 	background-color: transparent;
 	line-height: 20px;
-	text-align: center;
 	color: #C4C4C4;
+	text-align: center;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 }
 
@@ -651,13 +640,13 @@
 	min-height: 14px;
 	background-color: transparent;
 	line-height: 13px;
+	color: #000000;
 	font-size: 11px;
 	text-align: center;
-	color: #000000;
 	font-family: Verdana, Tahoma, Geneva, sans-serif;
 	font-style: italic;
 	margin-left: 583px;
-	top: -343px;
+	top: -340px;
 	margin-bottom: -14px;
 	position: relative;
 }
@@ -669,44 +658,15 @@
 	min-height: 14px;
 	background-color: transparent;
 	line-height: 13px;
+	color: #000000;
 	font-size: 11px;
 	text-align: center;
-	color: #000000;
 	font-family: Verdana, Tahoma, Geneva, sans-serif;
 	font-style: italic;
 	margin-left: 583px;
-	top: -323px;
+	top: -320px;
 	margin-bottom: -14px;
 	position: relative;
-}
-
-#pu1877
-{
-	width: 0.01px;
-	margin-left: -101px;
-	margin-top: -776px;
-}
-
-#u1877
-{
-	z-index: 115;
-	width: 65px;
-	height: 874px;
-	background-color: #ED1C24;
-	opacity: 0.5;
-	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=50)";
-	filter: alpha(opacity=50);
-	position: relative;
-	margin-right: -10000px;
-}
-
-#pu1854-23
-{
-	width: 0.01px;
-	padding-bottom: 0px;
-	margin-right: -10000px;
-	margin-top: 246px;
-	margin-left: 683px;
 }
 
 #u1854-23
@@ -715,6 +675,9 @@
 	width: 512px;
 	min-height: 163px;
 	background-color: transparent;
+	margin-left: 582px;
+	top: -529px;
+	margin-bottom: -275px;
 	position: relative;
 }
 
@@ -753,11 +716,11 @@
 	min-height: 13px;
 	background-color: transparent;
 	line-height: 13px;
-	font-size: 11px;
 	color: #7F7F7F;
+	font-size: 11px;
 	font-family: Verdana, Tahoma, Geneva, sans-serif;
-	margin-left: 421px;
-	margin-top: 303px;
+	margin-left: 1003px;
+	margin-top: 49px;
 	position: relative;
 }
 

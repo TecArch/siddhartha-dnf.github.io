@@ -1,7 +1,7 @@
 .version.spenden /* version checker */
 {
-	color: #00001E;
-	background-color: #A247EB;
+	color: #00000A;
+	background-color: #59F369;
 }
 
 .html
@@ -12,79 +12,88 @@
 #page
 {
 	z-index: 1;
-	width: 960px;
-	min-height: 928px;
+	width: 829px;
+	min-height: 555px;
 	background-image: none;
 	border-style: none;
 	border-color: #000000;
 	background-color: transparent;
 	margin-left: auto;
 	margin-right: auto;
+	padding: 311px 57px 62px 74px;
 }
 
-#page_position_content
+#u1931
 {
-	padding-top: 102px;
-	padding-bottom: 62px;
-	width: 0.01px;
+	z-index: 72;
+	width: 944px;
+	height: 260px;
+	background-color: #FFFFFF;
+	position: fixed;
+	top: 0px;
+	left: 50%;
+	margin-left: -481px;
+}
+
+#u1899-4
+{
+	z-index: 78;
+	width: 201px;
+	min-height: 30px;
+	background-color: transparent;
+	line-height: 18px;
+	font-size: 15px;
+	font-family: Courier New, Courier, monospace;
+	font-style: italic;
+	position: fixed;
+	top: 56px;
+	left: 50%;
+	margin-left: -480px;
+}
+
+#u466
+{
+	z-index: 73;
+	width: 212px;
+	height: 160px;
+	position: fixed;
+	top: 72px;
+	left: 50%;
+	margin-left: -100px;
+	background: transparent url("../images/sid_schr%c3%a4g-u75-fr.jpg") no-repeat left top;
+	background-size: contain;
 }
 
 #u549-4
 {
-	z-index: 73;
-	width: 880px;
+	z-index: 74;
+	width: 490px;
 	min-height: 93px;
 	background-color: transparent;
 	line-height: 18px;
 	font-size: 15px;
 	font-family: Courier New, Courier, monospace;
-	font-weight: bold;
+	font-weight: normal;
+	font-style: italic;
 	position: fixed;
-	top: 137px;
+	top: 232px;
 	left: 50%;
-	margin-left: -705px;
+	margin-left: -207px;
 }
 
-#pu467-13
+#pslideshowu468
 {
 	width: 0.01px;
-	margin-left: 321px;
-}
-
-#u467-13
-{
-	z-index: 3;
-	width: 829px;
-	min-height: 827px;
-	background-color: transparent;
-	line-height: 42px;
-	font-size: 35px;
-	font-family: Courier New, Courier, monospace;
-	font-weight: bold;
-	position: relative;
-	margin-right: -10000px;
-}
-
-#u467-5,#u467-7,#u467-9,#u467-11
-{
-	line-height: 0px;/* 0 for mixed font sized paras; applied on spans instead */
-}
-
-#u467-4,#u467-6,#u467-8,#u467-10
-{
-	font-size: 19px;
-	font-weight: normal;
-	line-height: 23px;
 }
 
 #slideshowu468
 {
-	z-index: 16;
+	z-index: 2;
 	width: 0.01px;
 	height: 400px;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 325px;
+	margin-top: 326px;
 	left: 132px;
 }
 
@@ -98,12 +107,12 @@
 
 #u470popup
 {
-	z-index: 17;
+	z-index: 3;
 }
 
 #u483
 {
-	z-index: 18;
+	z-index: 4;
 	width: 480px;
 	height: 360px;
 	border-style: none;
@@ -121,7 +130,7 @@
 
 #u481
 {
-	z-index: 20;
+	z-index: 6;
 	width: 480px;
 	height: 360px;
 	border-style: none;
@@ -133,7 +142,7 @@
 
 #u479
 {
-	z-index: 22;
+	z-index: 8;
 	width: 480px;
 	height: 360px;
 	border-style: none;
@@ -145,7 +154,7 @@
 
 #u471
 {
-	z-index: 24;
+	z-index: 10;
 	width: 480px;
 	height: 360px;
 	border-style: none;
@@ -157,7 +166,7 @@
 
 #u473
 {
-	z-index: 26;
+	z-index: 12;
 	width: 480px;
 	height: 360px;
 	border-style: none;
@@ -169,7 +178,7 @@
 
 #u477
 {
-	z-index: 28;
+	z-index: 14;
 	width: 480px;
 	height: 360px;
 	border-style: none;
@@ -181,7 +190,7 @@
 
 #u475
 {
-	z-index: 30;
+	z-index: 16;
 	width: 480px;
 	height: 360px;
 	border-style: none;
@@ -214,12 +223,12 @@
 
 #u487popup
 {
-	z-index: 32;
+	z-index: 18;
 }
 
 #u493-4
 {
-	z-index: 33;
+	z-index: 19;
 	width: 329px;
 	min-height: 20px;
 	border-style: none;
@@ -227,8 +236,8 @@
 	background-color: #FFFFFF;
 	padding: 10px;
 	line-height: 20px;
-	text-align: left;
 	color: #999999;
+	text-align: left;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	margin-right: -10000px;
 	position: relative;
@@ -236,7 +245,7 @@
 
 #u491-4
 {
-	z-index: 37;
+	z-index: 23;
 	width: 329px;
 	min-height: 20px;
 	border-style: none;
@@ -244,8 +253,8 @@
 	background-color: #FFFFFF;
 	padding: 10px;
 	line-height: 20px;
-	text-align: left;
 	color: #999999;
+	text-align: left;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	margin-right: -10000px;
 	position: relative;
@@ -253,7 +262,7 @@
 
 #u489-4
 {
-	z-index: 41;
+	z-index: 27;
 	width: 329px;
 	min-height: 20px;
 	border-style: none;
@@ -261,8 +270,8 @@
 	background-color: #FFFFFF;
 	padding: 10px;
 	line-height: 20px;
-	text-align: left;
 	color: #999999;
+	text-align: left;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	margin-right: -10000px;
 	position: relative;
@@ -270,7 +279,7 @@
 
 #u492-4
 {
-	z-index: 45;
+	z-index: 31;
 	width: 329px;
 	min-height: 20px;
 	border-style: none;
@@ -278,8 +287,8 @@
 	background-color: #FFFFFF;
 	padding: 10px;
 	line-height: 20px;
-	text-align: left;
 	color: #999999;
+	text-align: left;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	margin-right: -10000px;
 	position: relative;
@@ -287,7 +296,7 @@
 
 #u490-4
 {
-	z-index: 49;
+	z-index: 35;
 	width: 329px;
 	min-height: 20px;
 	border-style: none;
@@ -295,8 +304,8 @@
 	background-color: #FFFFFF;
 	padding: 10px;
 	line-height: 20px;
-	text-align: left;
 	color: #999999;
+	text-align: left;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	margin-right: -10000px;
 	position: relative;
@@ -304,7 +313,7 @@
 
 #u488-4
 {
-	z-index: 53;
+	z-index: 39;
 	width: 329px;
 	min-height: 20px;
 	border-style: none;
@@ -312,8 +321,8 @@
 	background-color: #FFFFFF;
 	padding: 10px;
 	line-height: 20px;
-	text-align: left;
 	color: #999999;
+	text-align: left;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	margin-right: -10000px;
 	position: relative;
@@ -321,7 +330,7 @@
 
 #u494-4
 {
-	z-index: 57;
+	z-index: 43;
 	width: 329px;
 	min-height: 20px;
 	border-style: none;
@@ -329,8 +338,8 @@
 	background-color: #FFFFFF;
 	padding: 10px;
 	line-height: 20px;
-	text-align: left;
 	color: #999999;
+	text-align: left;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	margin-right: -10000px;
 	position: relative;
@@ -354,7 +363,7 @@
 
 #u512-4popup
 {
-	z-index: 61;
+	z-index: 47;
 }
 
 #u469-4
@@ -375,7 +384,7 @@
 
 #u469-4popup
 {
-	z-index: 65;
+	z-index: 51;
 }
 
 #u512,#u469
@@ -393,8 +402,8 @@
 	background-color: #FFFFFF;
 	padding: 10px;
 	line-height: 20px;
-	text-align: center;
 	color: #999999;
+	text-align: center;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	top: 360px;
 	left: 450px;
@@ -402,7 +411,7 @@
 
 #u486-4popup
 {
-	z-index: 69;
+	z-index: 55;
 }
 
 .SSFirstButton,.SSPreviousButton,.SSNextButton,.SSLastButton,.SSSlideLink,.SSCloseButton /* slideshowFreeStyle */
@@ -415,17 +424,30 @@
 	background: url("../images/loading.gif") no-repeat center center;
 }
 
-#u466
+#u467-13
 {
-	z-index: 2;
-	width: 212px;
-	height: 160px;
-	position: fixed;
-	top: 178px;
-	left: 50%;
-	margin-left: -574px;
-	background: transparent url("../images/sid_schr%c3%a4g-u75-fr.jpg") no-repeat left top;
-	background-size: contain;
+	z-index: 59;
+	width: 829px;
+	min-height: 827px;
+	background-color: transparent;
+	line-height: 42px;
+	font-size: 35px;
+	font-family: Courier New, Courier, monospace;
+	font-weight: bold;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u467-5,#u467-7,#u467-9,#u467-11
+{
+	line-height: 0px;/* 0 for mixed font sized paras; applied on spans instead */
+}
+
+#u467-4,#u467-6,#u467-8,#u467-10
+{
+	font-size: 19px;
+	font-weight: normal;
+	line-height: 23px;
 }
 
 body

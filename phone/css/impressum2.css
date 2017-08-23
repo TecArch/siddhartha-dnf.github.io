@@ -1,7 +1,7 @@
 .version.impressum2 /* version checker */
 {
-	color: #0000E0;
-	background-color: #85E598;
+	color: #0000E4;
+	background-color: #2008FE;
 }
 
 @-ms-viewport
@@ -61,14 +61,14 @@
 	position: relative;
 }
 
-#pu1325-73
+#pu1325-6
 {
 	width: 0.01px;
 	margin-left: 36px;
 	margin-top: 48px;
 }
 
-#u1325-73
+#u1325-6
 {
 	z-index: 6;
 	width: 332px;
@@ -79,38 +79,37 @@
 	margin-right: -10000px;
 }
 
-#u1325-2
+#u1325
 {
-	font-size: 15px;
-	line-height: 18px;
+	font-size: 1px;
+	line-height: 0px;
+}
+
+#u1911-64
+{
+	z-index: 12;
+	width: 332px;
+	min-height: 695px;
+	background-color: transparent;
+	line-height: 14px;
+	font-size: 12px;
+	font-family: Verdana, Tahoma, Geneva, sans-serif;
+}
+
+#u1911-2,#u1911-3,#u1911-5
+{
 	font-weight: bold;
 }
 
-#u1325-3
+#u1911-20
 {
-	font-size: 16px;
-	line-height: 19px;
-	font-weight: bold;
-}
-
-#u1325-5
-{
-	font-size: 13px;
-	line-height: 16px;
-	font-weight: bold;
-}
-
-#u1325-19
-{
-	font-size: 13px;
-	line-height: 16px;
 	font-weight: bold;
 	font-style: normal;
 }
 
 #u1326-27
 {
-	z-index: 79;
+	z-index: 77;
 	width: 336px;
 	min-height: 835px;
 	background-color: transparent;
@@ -150,7 +149,7 @@
 	font-style: italic;
 }
 
-#u1325-7,#u1325-9,#u1325-10,#u1325-13,#u1325-14,#u1325-16,#u1325-22,#u1325-24,#u1325-26,#u1325-27,#u1325-29,#u1325-31,#u1325-32,#u1325-34,#u1325-36,#u1325-38,#u1325-39,#u1325-41,#u1325-43,#u1325-44,#u1325-46,#u1325-47,#u1325-49,#u1325-51,#u1325-52,#u1325-54,#u1325-56,#u1325-58,#u1325-59,#u1325-61,#u1325-62,#u1325-64,#u1325-66,#u1325-68,#u1325-70,#u1326-10,#u1326-12,#u1326-18,#u1326-24
+#u1326-10,#u1326-12,#u1326-18,#u1326-24
 {
 	font-size: 11px;
 	line-height: 13px;

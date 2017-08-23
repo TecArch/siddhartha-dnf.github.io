@@ -1,7 +1,7 @@
 .version.aktuelles /* version checker */
 {
-	color: #0000FF;
-	background-color: #0FF552;
+	color: #000005;
+	background-color: #5766B9;
 }
 
 .html
@@ -100,22 +100,28 @@
 	font-size: 30px;
 }
 
-#u931-8
+#u931-5
 {
 	z-index: 23;
 	width: 546px;
 	min-height: 269px;
 	background-color: transparent;
 	font-family: Verdana, Tahoma, Geneva, sans-serif;
+	font-weight: normal;
 	margin-left: 405px;
 	margin-top: 38px;
 	position: relative;
 }
 
-#u931-2,#u931-5
+#u931
+{
+	font-style: italic;
+}
+
+#u931-2
 {
 	font-weight: bold;
-	font-style: italic;
+	font-style: normal;
 }
 
 #u930-4
@@ -125,8 +131,8 @@
 	min-height: 13px;
 	background-color: transparent;
 	line-height: 13px;
-	font-size: 11px;
 	color: #7F7F7F;
+	font-size: 11px;
 	font-family: Verdana, Tahoma, Geneva, sans-serif;
 	margin-left: 1003px;
 	margin-top: 82px;

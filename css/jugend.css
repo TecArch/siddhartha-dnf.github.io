@@ -1,7 +1,7 @@
 .version.jugend /* version checker */
 {
-	color: #0000E7;
-	background-color: #938BF4;
+	color: #0000F8;
+	background-color: #A8B32A;
 }
 
 .html
@@ -12,48 +12,83 @@
 #page
 {
 	z-index: 1;
-	width: 960px;
-	min-height: 500px;
+	width: 829px;
+	min-height: 138px;
 	background-image: none;
 	border-style: none;
 	border-color: #000000;
 	background-color: transparent;
 	margin-left: auto;
 	margin-right: auto;
+	padding: 300px 57px 62px 74px;
 }
 
-#page_position_content
+#u1932
 {
-	padding-top: 102px;
-	padding-bottom: 62px;
-	width: 0.01px;
+	z-index: 48;
+	width: 944px;
+	height: 260px;
+	background-color: #FFFFFF;
+	position: fixed;
+	top: 0px;
+	left: 50%;
+	margin-left: -481px;
 }
 
-#u551-4
+#u1900-4
 {
-	z-index: 3;
-	width: 880px;
+	z-index: 54;
+	width: 201px;
+	min-height: 30px;
+	background-color: transparent;
+	line-height: 18px;
+	font-size: 15px;
+	font-family: Courier New, Courier, monospace;
+	font-style: italic;
+	position: fixed;
+	top: 56px;
+	left: 50%;
+	margin-left: -480px;
+}
+
+#u1883
+{
+	z-index: 49;
+	width: 212px;
+	height: 160px;
+	position: fixed;
+	top: 72px;
+	left: 50%;
+	margin-left: -100px;
+	background: transparent url("../images/sid_schr%c3%a4g-u75-fr.jpg") no-repeat left top;
+	background-size: contain;
+}
+
+#u1884-4
+{
+	z-index: 50;
+	width: 490px;
 	min-height: 93px;
 	background-color: transparent;
 	line-height: 18px;
 	font-size: 15px;
 	font-family: Courier New, Courier, monospace;
-	font-weight: bold;
+	font-weight: normal;
+	font-style: italic;
 	position: fixed;
-	top: 137px;
+	top: 232px;
 	left: 50%;
-	margin-left: -705px;
+	margin-left: -207px;
 }
 
 #pu566-13
 {
 	width: 0.01px;
-	margin-left: 320px;
 }
 
 #u566-13
 {
-	z-index: 7;
+	z-index: 2;
 	width: 829px;
 	min-height: 827px;
 	background-color: transparent;
@@ -79,13 +114,13 @@
 
 #slideshowu567
 {
-	z-index: 20;
+	z-index: 15;
 	width: 0.01px;
 	height: 400px;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 299px;
-	left: 73px;
+	margin-top: 309px;
+	left: 174px;
 }
 
 #u578
@@ -98,12 +133,12 @@
 
 #u578popup
 {
-	z-index: 21;
+	z-index: 16;
 }
 
 #u579
 {
-	z-index: 22;
+	z-index: 17;
 	width: 480px;
 	height: 360px;
 	border-style: none;
@@ -115,7 +150,7 @@
 
 #u581
 {
-	z-index: 24;
+	z-index: 19;
 	width: 480px;
 	height: 360px;
 	border-style: none;
@@ -127,7 +162,7 @@
 
 #u583
 {
-	z-index: 26;
+	z-index: 21;
 	width: 480px;
 	height: 360px;
 	border-style: none;
@@ -160,12 +195,12 @@
 
 #u568popup
 {
-	z-index: 28;
+	z-index: 23;
 }
 
 #u569-4
 {
-	z-index: 29;
+	z-index: 24;
 	width: 329px;
 	min-height: 20px;
 	border-style: none;
@@ -173,8 +208,8 @@
 	background-color: #FFFFFF;
 	padding: 10px;
 	line-height: 20px;
-	text-align: left;
 	color: #999999;
+	text-align: left;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	margin-right: -10000px;
 	position: relative;
@@ -182,7 +217,7 @@
 
 #u571-4
 {
-	z-index: 33;
+	z-index: 28;
 	width: 329px;
 	min-height: 20px;
 	border-style: none;
@@ -190,8 +225,8 @@
 	background-color: #FFFFFF;
 	padding: 10px;
 	line-height: 20px;
-	text-align: left;
 	color: #999999;
+	text-align: left;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	margin-right: -10000px;
 	position: relative;
@@ -199,7 +234,7 @@
 
 #u570-4
 {
-	z-index: 37;
+	z-index: 32;
 	width: 329px;
 	min-height: 20px;
 	border-style: none;
@@ -207,8 +242,8 @@
 	background-color: #FFFFFF;
 	padding: 10px;
 	line-height: 20px;
-	text-align: left;
 	color: #999999;
+	text-align: left;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	margin-right: -10000px;
 	position: relative;
@@ -232,7 +267,7 @@
 
 #u573-4popup
 {
-	z-index: 41;
+	z-index: 36;
 }
 
 #u592-4
@@ -253,7 +288,7 @@
 
 #u592-4popup
 {
-	z-index: 45;
+	z-index: 40;
 }
 
 #u573,#u592
@@ -271,8 +306,8 @@
 	background-color: #FFFFFF;
 	padding: 10px;
 	line-height: 20px;
-	text-align: center;
 	color: #999999;
+	text-align: center;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	top: 360px;
 	left: 450px;
@@ -280,7 +315,7 @@
 
 #u574-4popup
 {
-	z-index: 49;
+	z-index: 44;
 }
 
 .SSFirstButton,.SSPreviousButton,.SSNextButton,.SSLastButton,.SSSlideLink,.SSCloseButton /* slideshowFreeStyle */
@@ -291,19 +326,6 @@
 .SSSlideLoading /* slideshowFreeStyle */
 {
 	background: url("../images/loading.gif") no-repeat center center;
-}
-
-#u550
-{
-	z-index: 2;
-	width: 212px;
-	height: 160px;
-	position: fixed;
-	top: 178px;
-	left: 50%;
-	margin-left: -574px;
-	background: transparent url("../images/sid_schr%c3%a4g-u75-fr.jpg") no-repeat left top;
-	background-size: contain;
 }
 
 body
