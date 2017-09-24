@@ -1,4 +1,4 @@
-<manifest alg="2" build="2015.0.0.309" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="siddhartha-dnf.de" resolutions="1x" timestamp="1503480535886">
+<manifest alg="2" build="2015.0.0.309" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="siddhartha-dnf.de" resolutions="1x" timestamp="1506252113459">
   <folder name="phone">
     <folder name="css">
       <file name="impressum1.css" crc="4072302732" ref="phone>impressum1"/>
@@ -43,7 +43,7 @@
   <folder name="css">
     <file name="site_global.css" crc="3888461080"/>
     <file name="kontakt.css" crc="4036857215" ref="kontakt"/>
-    <file name="werwir.css" crc="3781204209" ref="werwir"/>
+    <file name="werwir.css" crc="3811781545" ref="werwir"/>
     <file name="sport.css" crc="211225757" ref="sport"/>
     <file name="kultur.css" crc="3804974675" ref="kultur"/>
     <file name="austausch.css" crc="151328629" ref="austausch"/>
@@ -56,7 +56,7 @@
     <file name="impressum1.css" crc="200058782" ref="impressum1"/>
     <file name="impressum2.css" crc="4192165789" ref="impressum2"/>
     <file name="impressum.css" crc="3962086428" ref="impressum"/>
-    <file name="aktuelles.css" crc="89614009" ref="aktuelles"/>
+    <file name="aktuelles.css" crc="4220672486" ref="aktuelles"/>
     <file name="index.css" crc="4007527704" ref="index"/>
     <file name="index-kopie.css" crc="47004022" ref="index-kopie"/>
   </folder>
@@ -123,7 +123,7 @@
   </folder>
   <file name="index.html" crc="93473615" seo="true" mt="1494253174858" redirect="true"/>
   <file name="kontakt.html" crc="189951574" seo="true" mt="1494240486150" redirect="true"/>
-  <file name="werwir.html" crc="3955905108" seo="true" mt="1503480311366" redirect="true"/>
+  <file name="werwir.html" crc="23517187" seo="true" mt="1506252058960" redirect="true"/>
   <file name="spenden.html" crc="3948611477" seo="true" mt="1494245802376" redirect="true"/>
   <file name="jugend.html" crc="4055521146" seo="true" mt="1494245902367" redirect="true"/>
   <file name="bildung.html" crc="4025109365" seo="true" mt="1494245923585" redirect="true"/>
@@ -136,6 +136,6 @@
   <file name="impressum.html" crc="298447233" seo="true" mt="1494240348434" redirect="true"/>
   <file name="impressum1.html" crc="4034782206" seo="true" mt="1494240338144" redirect="true"/>
   <file name="impressum2.html" crc="131683060" seo="true" mt="1494240312039" redirect="true"/>
-  <file name="aktuelles.html" crc="290688970" seo="true" mt="1494240681922" redirect="true"/>
+  <file name="aktuelles.html" crc="366749941" seo="true" mt="1506252049792" redirect="true"/>
   <file name="index-kopie.html" crc="220844481" seo="true" mt="1494276092631" redirect="true"/>
 </manifest>

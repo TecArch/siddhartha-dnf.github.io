@@ -1,7 +1,7 @@
 .version.aktuelles /* version checker */
 {
-	color: #000005;
-	background-color: #5766B9;
+	color: #0000FB;
+	background-color: #9259E6;
 }
 
 .html
@@ -100,7 +100,7 @@
 	font-size: 30px;
 }
 
-#u931-5
+#u931-11
 {
 	z-index: 23;
 	width: 546px;
@@ -118,9 +118,15 @@
 	font-style: italic;
 }
 
-#u931-2
+#u931-2,#u931-5
 {
 	font-weight: bold;
+	font-style: normal;
+}
+
+#u931-6,#u931-8
+{
+	font-weight: normal;
 	font-style: normal;
 }
 

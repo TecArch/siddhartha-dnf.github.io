@@ -1,7 +1,7 @@
 .version.werwir /* version checker */
 {
-	color: #0000E1;
-	background-color: #6098F1;
+	color: #0000E3;
+	background-color: #332BA9;
 }
 
 .html
@@ -766,9 +766,9 @@
 	min-height: 20px;
 	background-color: transparent;
 	line-height: 17px;
+	color: #000000;
 	font-size: 12px;
 	text-align: center;
-	color: #000000;
 	font-family: Verdana, Tahoma, Geneva, sans-serif;
 }
 
@@ -886,9 +886,9 @@
 	border-color: #DEDEDE;
 	background-color: transparent;
 	line-height: 17px;
+	color: #000000;
 	font-size: 12px;
 	text-align: center;
-	color: #000000;
 	font-family: Verdana, Tahoma, Geneva, sans-serif;
 }
 
@@ -958,8 +958,8 @@
 	min-height: 13px;
 	background-color: transparent;
 	line-height: 13px;
-	font-size: 11px;
 	color: #7F7F7F;
+	font-size: 11px;
 	font-family: Trebuchet, Trebuchet MS, Tahoma, Arial, sans-serif;
 	margin-left: 1001px;
 	margin-top: 35px;
