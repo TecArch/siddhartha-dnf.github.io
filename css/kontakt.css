@@ -1,7 +1,7 @@
 .version.kontakt /* version checker */
 {
-	color: #0000F0;
-	background-color: #9D8D7F;
+	color: #0000FC;
+	background-color: #9FEFF6;
 }
 
 .html
@@ -269,12 +269,11 @@
 
 #u1631.PamphletThumbSelected
 {
-	background-repeat: no-repeat;
-	background-position: center center;
 	width: 222px;
 	height: 220px;
 	min-height: 0px;
 	margin: 0px;
+	background: transparent url("../images/debasish-ganguly-1-net(1).jpg") no-repeat center center;
 	background-size: cover;
 }
 
@@ -327,6 +326,16 @@
 	background-size: cover;
 }
 
+#u1635.PamphletThumbSelected
+{
+	width: 220px;
+	height: 220px;
+	min-height: 0px;
+	margin: 0px;
+	background: #FFFFFF url("../images/dsc_0186.jpg") no-repeat center center;
+	background-size: cover;
+}
+
 #u1628
 {
 	position: absolute;
@@ -366,7 +375,7 @@
 	background-size: cover;
 }
 
-#u1634.PamphletThumbSelected,#u1632.PamphletThumbSelected,#u1629.PamphletThumbSelected,#u1635.PamphletThumbSelected,#u1628.PamphletThumbSelected,#u1633.PamphletThumbSelected,#u1630.PamphletThumbSelected
+#u1634.PamphletThumbSelected,#u1632.PamphletThumbSelected,#u1629.PamphletThumbSelected,#u1628.PamphletThumbSelected,#u1633.PamphletThumbSelected,#u1630.PamphletThumbSelected
 {
 	background-repeat: no-repeat;
 	background-position: center center;

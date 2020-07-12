@@ -1,7 +1,7 @@
 .version.index /* version checker */
 {
-	color: #0000EE;
-	background-color: #DE0518;
+	color: #0000E4;
+	background-color: #A1871F;
 }
 
 .html
@@ -26,11 +26,11 @@
 #u1796
 {
 	z-index: 2;
-	width: 1030px;
+	width: 939px;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 6px;
-	left: -30px;
+	margin-top: 21px;
+	left: 20px;
 	background: #FFFFFF url("../images/sid_schr%c3%a4g.jpg") no-repeat center center;
 }
 
@@ -38,7 +38,7 @@
 {
 	z-index: 4;
 	width: 589px;
-	min-height: 97px;
+	min-height: 5px;
 	background-color: transparent;
 	line-height: 25px;
 	color: #000000;
@@ -46,8 +46,8 @@
 	font-family: Courier New, Courier, monospace;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 680px;
-	left: -32px;
+	margin-top: 528px;
+	left: 54px;
 }
 
 #u1880-4
@@ -62,8 +62,8 @@
 	font-family: Courier New, Courier, monospace;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 642px;
-	left: 439px;
+	margin-top: 587px;
+	left: 446px;
 }
 
 body

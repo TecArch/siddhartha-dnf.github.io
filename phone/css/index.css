@@ -1,7 +1,7 @@
 .version.index /* version checker */
 {
-	color: #0000F5;
-	background-color: #35D38F;
+	color: #0000F2;
+	background-color: #6C820B;
 }
 
 @-ms-viewport
@@ -59,8 +59,8 @@
 	width: 51px;
 	min-height: 17px;
 	background-color: transparent;
-	line-height: 14px;
-	font-size: 12px;
+	line-height: 19px;
+	font-size: 16px;
 	font-family: Courier New, Courier, monospace;
 	font-weight: bold;
 	font-style: italic;
@@ -80,7 +80,7 @@
 
 #u1243-4.MuseLinkActive p
 {
-	font-size: 12px;
+	font-size: 16px;
 	text-decoration: none;
 	font-weight: bold;
 	font-style: italic;
@@ -89,16 +89,16 @@
 #u1244-4
 {
 	z-index: 109;
-	width: 62px;
+	width: 80px;
 	min-height: 17px;
 	background-color: transparent;
-	line-height: 14px;
-	font-size: 12px;
+	line-height: 19px;
+	font-size: 16px;
 	font-family: Courier New, Courier, monospace;
 	font-weight: bold;
 	font-style: italic;
 	margin-left: 25px;
-	margin-top: 3px;
+	margin-top: 2px;
 	position: relative;
 }
 
@@ -108,8 +108,8 @@
 	padding-top: 0px;
 	padding-bottom: 0px;
 	min-height: 17px;
-	width: 62px;
-	margin: 3px 0px 0px 25px;
+	width: 80px;
+	margin: 2px 0px 0px 25px;
 }
 
 #u1244-4:active
@@ -118,8 +118,8 @@
 	padding-top: 0px;
 	padding-bottom: 0px;
 	min-height: 17px;
-	width: 62px;
-	margin: 3px 0px 0px 25px;
+	width: 80px;
+	margin: 2px 0px 0px 25px;
 }
 
 #u1245-4
@@ -128,13 +128,13 @@
 	width: 57px;
 	min-height: 17px;
 	background-color: transparent;
-	line-height: 14px;
-	font-size: 12px;
+	line-height: 19px;
+	font-size: 16px;
 	font-family: Courier New, Courier, monospace;
 	font-weight: bold;
 	font-style: italic;
 	margin-left: 25px;
-	margin-top: 3px;
+	margin-top: 2px;
 	position: relative;
 }
 
@@ -145,7 +145,7 @@
 	padding-bottom: 0px;
 	min-height: 17px;
 	width: 57px;
-	margin: 3px 0px 0px 25px;
+	margin: 2px 0px 0px 25px;
 }
 
 #u1245-4:active
@@ -155,7 +155,7 @@
 	padding-bottom: 0px;
 	min-height: 17px;
 	width: 57px;
-	margin: 3px 0px 0px 25px;
+	margin: 2px 0px 0px 25px;
 }
 
 #u1244,#u1245
@@ -166,37 +166,30 @@
 #u1124
 {
 	z-index: 2;
-	width: 123px;
+	width: 167px;
 	background-color: transparent;
-	margin-left: 136px;
-	margin-top: 120px;
+	margin-left: 113px;
+	margin-top: 86px;
 	position: relative;
 }
 
 #u1129-7
 {
 	z-index: 4;
-	width: 95px;
-	min-height: 57px;
+	width: 135px;
+	min-height: 91px;
 	background-color: transparent;
 	font-family: Courier New, Courier, monospace;
 	font-weight: bold;
-	margin-left: 150px;
-	top: -4px;
-	margin-bottom: -4px;
+	margin-left: 136px;
+	margin-top: 5px;
 	position: relative;
 }
 
-#u1129-2
+#u1129-2,#u1129-4
 {
-	font-size: 15px;
-	line-height: 18px;
-}
-
-#u1129-4
-{
-	font-size: 12px;
-	line-height: 14px;
+	font-size: 16px;
+	line-height: 19px;
 }
 
 #u1129-3
@@ -214,7 +207,7 @@
 {
 	width: 0.01px;
 	margin-left: 45px;
-	margin-top: 199px;
+	margin-top: 165px;
 }
 
 #u1161-4
@@ -224,9 +217,9 @@
 	min-height: 14px;
 	background-color: transparent;
 	line-height: 13px;
+	color: #000000;
 	font-size: 11px;
 	text-align: center;
-	color: #000000;
 	font-family: Verdana, Tahoma, Geneva, sans-serif;
 	font-style: italic;
 	position: relative;
@@ -242,9 +235,9 @@
 	min-height: 14px;
 	background-color: transparent;
 	line-height: 13px;
+	color: #000000;
 	font-size: 11px;
 	text-align: center;
-	color: #000000;
 	font-family: Verdana, Tahoma, Geneva, sans-serif;
 	font-style: italic;
 	position: relative;
@@ -359,8 +352,8 @@
 	border-color: #DEDEDE;
 	background-color: transparent;
 	line-height: 20px;
-	text-align: center;
 	color: #C4C4C4;
+	text-align: center;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 }
 
@@ -469,8 +462,8 @@
 	border-color: transparent;
 	background-color: transparent;
 	line-height: 20px;
-	text-align: center;
 	color: #C4C4C4;
+	text-align: center;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 }
 
@@ -603,8 +596,8 @@
 	border-color: #DEDEDE;
 	background-color: transparent;
 	line-height: 20px;
-	text-align: center;
 	color: #C4C4C4;
+	text-align: center;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 }
 
@@ -827,8 +820,8 @@
 	min-height: 13px;
 	background-color: transparent;
 	line-height: 13px;
-	font-size: 11px;
 	color: #7F7F7F;
+	font-size: 11px;
 	font-family: Verdana, Tahoma, Geneva, sans-serif;
 	margin-left: 157px;
 	margin-top: 71px;
@@ -839,7 +832,6 @@ body
 {
 	position: relative;
 	min-width: 380px;
-	padding-bottom: 30px;
 }
 
 #page .verticalspacer

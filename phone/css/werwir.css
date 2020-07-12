@@ -1,7 +1,7 @@
 .version.werwir /* version checker */
 {
-	color: #0000FF;
-	background-color: #C5EC9E;
+	color: #0000F6;
+	background-color: #9AB7D7;
 }
 
 @-ms-viewport
@@ -52,12 +52,17 @@
 	width: 0.01px;
 }
 
+#pu1291
+{
+	width: 0.01px;
+}
+
 #u1291
 {
 	z-index: 2;
-	min-height: 82px;
+	min-height: 80px;
 	background-color: #FFFFFF;
-	padding-bottom: 4px;
+	padding-bottom: 6px;
 }
 
 #pu1273-4
@@ -75,8 +80,8 @@
 	width: 51px;
 	min-height: 17px;
 	background-color: transparent;
-	line-height: 14px;
-	font-size: 12px;
+	line-height: 19px;
+	font-size: 16px;
 	font-family: Courier New, Courier, monospace;
 	font-weight: bold;
 	font-style: italic;
@@ -103,10 +108,15 @@
 	margin: 0px;
 }
 
-#u1274-4
+#u1273
+{
+	text-decoration: underline;
+}
+
+#u1274-5
 {
 	z-index: 7;
-	width: 62px;
+	width: 80px;
 	min-height: 17px;
 	background-color: transparent;
 	line-height: 14px;
@@ -114,47 +124,60 @@
 	font-family: Courier New, Courier, monospace;
 	font-weight: bold;
 	font-style: italic;
-	margin-top: 3px;
+	margin-top: 2px;
 	position: relative;
 }
 
-#u1274-4:hover
+#u1274-5:hover
 {
 	background-color: #97F7FF;
 	padding-top: 0px;
 	padding-bottom: 0px;
 	min-height: 17px;
-	width: 62px;
-	margin: 3px 0px 0px;
+	width: 80px;
+	margin: 2px 0px 0px;
 }
 
-#u1274-4:active
+#u1274-5:active
 {
 	background-color: #FF654A;
 	padding-top: 0px;
 	padding-bottom: 0px;
 	min-height: 17px;
-	width: 62px;
-	margin: 3px 0px 0px;
+	width: 80px;
+	margin: 2px 0px 0px;
 }
 
-#u1273,#u1274
+#u1274-3
+{
+	line-height: 0px;/* 0 for mixed font sized paras; applied on spans instead */
+}
+
+#u1274
+{
+	font-size: 16px;
+	text-decoration: underline;
+	line-height: 19px;
+}
+
+#u1274-2
 {
 	text-decoration: underline;
+	line-height: 14px;
 }
 
 #u1275-4
 {
-	z-index: 11;
+	z-index: 12;
 	width: 57px;
 	min-height: 17px;
 	background-color: transparent;
-	line-height: 14px;
-	font-size: 12px;
+	line-height: 19px;
+	font-size: 16px;
 	font-family: Courier New, Courier, monospace;
 	font-weight: bold;
 	font-style: italic;
-	margin-top: 3px;
+	margin-top: 2px;
 	position: relative;
 }
 
@@ -165,72 +188,68 @@
 	padding-bottom: 0px;
 	min-height: 17px;
 	width: 57px;
-	margin: 3px 0px 0px;
+	margin: 2px 0px 0px;
 }
 
 #u1275-4.MuseLinkActive p
 {
+	font-size: 16px;
 	text-decoration: none;
 }
 
-#u1282
+#u1958
 {
-	z-index: 65;
+	z-index: 131;
 	width: 71px;
 	background-color: transparent;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 19px;
-	left: 200px;
+	margin-top: 16px;
+	left: 293px;
 }
 
-#u1284-7
+#u1291-bw
 {
-	z-index: 67;
-	width: 80px;
+	z-index: 2;
+	min-height: 80px;
+}
+
+#u1961-6
+{
+	z-index: 133;
+	width: 116px;
 	min-height: 57px;
 	background-color: transparent;
 	font-family: Courier New, Courier, monospace;
 	font-weight: bold;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 21px;
-	left: 274px;
+	margin-top: 52px;
+	left: 219px;
 }
 
-#u1284-2
+#u1961-2,#u1961-3
 {
-	font-size: 12px;
-	line-height: 14px;
+	font-size: 16px;
+	line-height: 19px;
 }
 
-#u1284-3
-{
-	font-weight: normal;
-}
-
-#u1284-5
+#u1961-4
 {
 	font-size: 30px;
 	line-height: 36px;
 }
 
-#u1291-bw
-{
-	z-index: 2;
-	min-height: 82px;
-}
-
 #u1916
 {
-	z-index: 79;
+	z-index: 68;
 	width: 266px;
 	min-height: 168px;
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
 	margin-left: 61px;
-	margin-top: 52px;
+	margin-top: 12px;
 	position: relative;
 }
 
@@ -243,7 +262,7 @@
 
 #u1918-14
 {
-	z-index: 80;
+	z-index: 69;
 	width: 269px;
 	min-height: 318px;
 	background-color: transparent;
@@ -256,7 +275,7 @@
 
 #u1919-5
 {
-	z-index: 94;
+	z-index: 83;
 	width: 148px;
 	min-height: 31px;
 	background-color: transparent;
@@ -265,8 +284,8 @@
 	font-family: Verdana, Tahoma, Geneva, sans-serif;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 101px;
-	left: 98px;
+	margin-top: 138px;
+	left: 78px;
 }
 
 #u1919-2
@@ -283,7 +302,7 @@
 
 #u1915
 {
-	z-index: 78;
+	z-index: 67;
 	min-height: 249px;
 	background-color: #FF6757;
 }
@@ -303,7 +322,7 @@
 
 #u1921-4
 {
-	z-index: 106;
+	z-index: 95;
 	width: 84px;
 	min-height: 21px;
 	background-color: transparent;
@@ -317,7 +336,7 @@
 
 #u1922-4
 {
-	z-index: 110;
+	z-index: 99;
 	width: 151px;
 	min-height: 29px;
 	background-color: transparent;
@@ -330,7 +349,7 @@
 
 #u1924-4
 {
-	z-index: 118;
+	z-index: 107;
 	width: 131px;
 	min-height: 29px;
 	background-color: transparent;
@@ -344,7 +363,7 @@
 
 #u1925-4
 {
-	z-index: 122;
+	z-index: 111;
 	width: 115px;
 	min-height: 29px;
 	background-color: transparent;
@@ -359,7 +378,7 @@
 
 #u1920-7
 {
-	z-index: 99;
+	z-index: 88;
 	width: 248px;
 	min-height: 43px;
 	background-color: transparent;
@@ -379,13 +398,13 @@
 
 #u1915-bw
 {
-	z-index: 78;
+	z-index: 67;
 	min-height: 249px;
 }
 
 #u1923-4
 {
-	z-index: 114;
+	z-index: 103;
 	width: 195px;
 	min-height: 43px;
 	background-color: transparent;
@@ -400,7 +419,7 @@
 
 #u1926-4
 {
-	z-index: 126;
+	z-index: 115;
 	width: 225px;
 	min-height: 20px;
 	background-color: transparent;
@@ -415,7 +434,7 @@
 
 #u1927-4
 {
-	z-index: 130;
+	z-index: 119;
 	width: 170px;
 	min-height: 17px;
 	background-color: transparent;
@@ -430,7 +449,7 @@
 
 #u1928-4
 {
-	z-index: 134;
+	z-index: 123;
 	width: 195px;
 	min-height: 31px;
 	background-color: transparent;
@@ -445,7 +464,7 @@
 
 #u1929-4
 {
-	z-index: 138;
+	z-index: 127;
 	width: 151px;
 	min-height: 45px;
 	background-color: transparent;
@@ -458,16 +477,16 @@
 	left: 255px;
 }
 
-#pu1277-13
+#pu1277-10
 {
 	width: 0.01px;
 	margin-left: 21px;
 	margin-top: 104px;
 }
 
-#u1277-13
+#u1277-10
 {
-	z-index: 15;
+	z-index: 16;
 	width: 163px;
 	min-height: 165px;
 	background-color: transparent;
@@ -483,27 +502,9 @@
 	padding-bottom: 6px;
 }
 
-#u1277-9
-{
-	font-size: 11px;
-	padding-bottom: 6px;
-	line-height: 0px;/* 0 for mixed font sized paras; applied on spans instead */
-}
-
-#u1284-4,#u1277-7
-{
-	font-size: 9px;
-	line-height: 11px;
-}
-
-#u1277-8
-{
-	line-height: 14px;
-}
-
 #u1278-37
 {
-	z-index: 28;
+	z-index: 26;
 	width: 183px;
 	min-height: 190px;
 	background-color: transparent;
@@ -518,7 +519,7 @@
 	font-style: italic;
 }
 
-#u1277-3,#u1277-4,#u1277-10,#u1277-11,#u1278-3,#u1278-4
+#u1277-3,#u1277-4,#u1277-7,#u1277-8,#u1278-3,#u1278-4
 {
 	font-size: 11px;
 	line-height: 13px;
@@ -573,13 +574,13 @@
 
 #u1286-4
 {
-	z-index: 74;
+	z-index: 63;
 	width: 69px;
 	min-height: 13px;
 	background-color: transparent;
 	line-height: 13px;
-	font-size: 11px;
 	color: #7F7F7F;
+	font-size: 11px;
 	font-family: Verdana, Tahoma, Geneva, sans-serif;
 	margin-left: 163px;
 	margin-top: 101px;

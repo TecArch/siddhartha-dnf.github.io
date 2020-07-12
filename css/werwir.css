@@ -1,7 +1,7 @@
 .version.werwir /* version checker */
 {
-	color: #0000E9;
-	background-color: #E786D0;
+	color: #0000FB;
+	background-color: #E50A92;
 }
 
 .html
@@ -522,6 +522,12 @@
 	background-color: transparent;
 }
 
+#u335_img,#u340_img
+{
+	padding-right: 8px;
+	padding-bottom: 3px;
+}
+
 #u333-5,#u338-5
 {
 	line-height: 20px;
@@ -576,9 +582,9 @@
 	background-color: transparent;
 }
 
-#u335_img,#u340_img,#u345_img
+#u345_img
 {
-	padding-right: 8px;
+	padding-right: 54px;
 	padding-bottom: 3px;
 }
 

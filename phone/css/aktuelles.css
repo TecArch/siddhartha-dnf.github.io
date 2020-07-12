@@ -1,7 +1,7 @@
 .version.aktuelles /* version checker */
 {
-	color: #0000F6;
-	background-color: #66A6FE;
+	color: #000001;
+	background-color: #CDCA75;
 }
 
 @-ms-viewport
@@ -75,8 +75,8 @@
 	width: 51px;
 	min-height: 17px;
 	background-color: transparent;
-	line-height: 14px;
-	font-size: 12px;
+	line-height: 19px;
+	font-size: 16px;
 	font-family: Courier New, Courier, monospace;
 	font-weight: bold;
 	font-style: italic;
@@ -106,15 +106,15 @@
 #u1315-4
 {
 	z-index: 11;
-	width: 62px;
+	width: 83px;
 	min-height: 17px;
 	background-color: transparent;
-	line-height: 14px;
-	font-size: 12px;
+	line-height: 19px;
+	font-size: 16px;
 	font-family: Courier New, Courier, monospace;
 	font-weight: bold;
 	font-style: italic;
-	margin-top: 3px;
+	margin-top: 2px;
 	position: relative;
 }
 
@@ -124,8 +124,8 @@
 	padding-top: 0px;
 	padding-bottom: 0px;
 	min-height: 17px;
-	width: 62px;
-	margin: 3px 0px 0px;
+	width: 83px;
+	margin: 2px 0px 0px;
 }
 
 #u1315-4:active
@@ -134,8 +134,8 @@
 	padding-top: 0px;
 	padding-bottom: 0px;
 	min-height: 17px;
-	width: 62px;
-	margin: 3px 0px 0px;
+	width: 83px;
+	margin: 2px 0px 0px;
 }
 
 #u1316-4
@@ -144,12 +144,12 @@
 	width: 57px;
 	min-height: 17px;
 	background-color: transparent;
-	line-height: 14px;
-	font-size: 12px;
+	line-height: 19px;
+	font-size: 16px;
 	font-family: Courier New, Courier, monospace;
 	font-weight: bold;
 	font-style: italic;
-	margin-top: 3px;
+	margin-top: 2px;
 	position: relative;
 }
 
@@ -160,7 +160,7 @@
 	padding-bottom: 0px;
 	min-height: 17px;
 	width: 57px;
-	margin: 3px 0px 0px;
+	margin: 2px 0px 0px;
 }
 
 #u1316-4:active
@@ -170,7 +170,7 @@
 	padding-bottom: 0px;
 	min-height: 17px;
 	width: 57px;
-	margin: 3px 0px 0px;
+	margin: 2px 0px 0px;
 }
 
 #u1314,#u1315,#u1316
@@ -232,29 +232,36 @@
 	min-height: 82px;
 }
 
-#u1910-7
+#u1910-4
 {
 	z-index: 28;
-	width: 394px;
-	min-height: 269px;
+	width: 56px;
+	min-height: 19px;
 	background-color: transparent;
 	line-height: 14px;
 	font-size: 12px;
 	font-family: Verdana, Tahoma, Geneva, sans-serif;
 	font-weight: normal;
-	margin-left: 137px;
-	margin-top: 57px;
+	margin-left: 36px;
+	margin-top: 33px;
 	position: relative;
 }
 
 #u1910
 {
+	font-weight: bold;
 	font-style: italic;
 }
 
-#u1910-2,#u1910-4
+#u1962-4
 {
-	font-weight: bold;
+	z-index: 32;
+	width: 257px;
+	min-height: 252px;
+	background-color: transparent;
+	margin-left: 82px;
+	margin-top: 36px;
+	position: relative;
 }
 
 #u1252-4
@@ -268,7 +275,7 @@
 	font-size: 11px;
 	font-family: Verdana, Tahoma, Geneva, sans-serif;
 	margin-left: 153px;
-	margin-top: 118px;
+	margin-top: 104px;
 	position: relative;
 }
 
